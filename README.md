@@ -1,9 +1,9 @@
 # Credit_Risk_Analyzer
 
 
-<div align="center">  
+<div >  
   <a href="https://creditriskanalyzer-sapf6khmekgqcydmmdnrkk.streamlit.app">
-    <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/streamlit_logo_icon_249495.png" alt="Go to app" width="100" height="100">
+    <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/streamlit_logo_icon_249495.png" alt="Go to app" width="40" height="40">Go to App
   </a>
 </div>
 
