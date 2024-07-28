@@ -189,7 +189,7 @@ with col1:
         credit_score = model.predict(output)[0]
 
         if credit_score == 1:
-            # st.balloons()
+            st.balloons()
             t1 = plt.Polygon([[5, 0.5], [5.5, 0], [4.5, 0]], color='black')
             placeholder.markdown('Your credit score is **GOOD**! Congratulations!')
             st.markdown('This credit score indicates that this person is likely to repay a loan, so the risk of giving them credit is low.')
