@@ -25,19 +25,19 @@ The Credit Risk Analyzer App is a Streamlit-based web application designed to pr
 
 ```bash
 credit-score-classification-app/      
-├── data
-│   ├── external       # Data from third party sources.
-│   ├── interim        # Intermediate data that has been transformed.
-│   └── processed      # The final, canonical data sets for modeling.
+├── app 
+│   ├── src.py         
+│   └── streamlit_app.py    # Main Streamlit app script
+│ 
+├── data                    # dataset
+│   
+├── models                  # Trained and serialized models.
 │
-├── app                # Streamlit App.
+├── notebooks               # Jupyter notebooks
 │
-├── models             # Trained and serialized models.
-│
-├── notebooks          # Jupyter notebooks
-│
-├── references         # Data dictionary.
-│
+├── references              
+│   └── feature-description.md
+│ 
 ├── README.md  
-└── requirements.txt   # List of required packages
+└── requirements.txt        # List of required packages
 ```
