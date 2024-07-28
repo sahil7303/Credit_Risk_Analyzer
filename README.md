@@ -17,7 +17,7 @@ The Credit Risk Analyzer App is a Streamlit-based web application designed to pr
 
 2. Fill out the form on the sidebar with your financial and demographic information.
 
-3. Click the "ANALYZE" button to see your predicted credit score.
+3. Click the `ANALYZE` button to see your predicted credit score.
 
 4. Optionally, click the "Generate Random Profile" button to see a randomly generated profile and its credit score prediction.
 
@@ -41,7 +41,3 @@ credit-score-classification-app/
 ├── README.md  
 └── requirements.txt        # List of required packages
 ```
-
-`
-lskjdfljsd
-`
