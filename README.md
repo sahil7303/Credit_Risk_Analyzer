@@ -2,7 +2,7 @@
 
 <div>
   
-  <a href="https://creditriskanalyzer-sapf6khmekgqcydmmdnrkk.streamlit.app/">[![Go to App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]OPeeeen</a>    
+  <a href="">[![Go to App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://creditriskanalyzer-sapf6khmekgqcydmmdnrkk.streamlit.app/)</a>    
 
 </div>
 
