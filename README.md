@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="">[![Status - Under Development](https://img.shields.io/badge/Status-Under_Development-2ea44f)](https://)</a>
-  <a href="">[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://devmedeiros-credit-score-classification-appstreamlit-app-fcakrl.streamlitapp.com/)</a>
+  <a href="">[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://creditriskanalyzer-sapf6khmekgqcydmmdnrkk.streamlit.app/)</a>
     <a href="">[![License](https://img.shields.io/badge/License-MIT-blue)](#license)</a>
 
 </div>
